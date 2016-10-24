@@ -1,7 +1,7 @@
 # ArduSimF1
 Software to read telemetry data out of Codemasters F1 2016 and send data to arduino for shift leds.
 
-Test movie of the software.(https://youtu.be/-ma095YRukE). Only output to console.
+Test movie of the software.(https://www.youtube.com/watch?v=-ma095YRukE). Only output to console.
 
 ### Done
 * Software is opening socket.
